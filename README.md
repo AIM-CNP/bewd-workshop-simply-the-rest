@@ -9,7 +9,8 @@ We zullen ingaan op het maken van REST Resources en het afhandelen van verschill
 # Workshop
 Voer stap voor stap de volgende opdrachten uit.
 ## 1 Spring boot 
-Maak een nieuw Spring Boot-project aan met https://start.spring.io/ . Gebruik de nieuwste versie (waar niet "Snapshot", "M2" oid achter staat). Packaging: JAR. Java-versie: 17 of 21. Language: Java, uiteraard. Bij "Dependencies" voeg je toe:
+Maak een nieuw Spring Boot-project aan met https://start.spring.io/ . Gebruik de nieuwste versie (waar niet "Snapshot", "M2" oid achter staat). Packaging: JAR. Java-versie: 17 of 21. Language: Java, uiteraard. 
+Kies voor **Maven** en bij "Dependencies" voeg je toe:
 "Web: Spring Web". Klik op "Generate".
 
 Je ontvangt nu een zip met startcode. Kopieer dit naar een plek naar keuze en open het met IntelliJ.
